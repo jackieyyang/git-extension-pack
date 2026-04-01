@@ -1,4 +1,4 @@
-# Git Extension Pack (jackieyyang)
+# Git Extension Pack
 
 一键安装常用 Git 相关扩展。
 
