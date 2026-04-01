@@ -2,8 +2,6 @@
 
 一键安装常用 Git 相关扩展。
 
-源码：<https://github.com/jackieyyang/git-extension-pack>
-
 ## 包含扩展
 
 | 扩展 | 说明 |
