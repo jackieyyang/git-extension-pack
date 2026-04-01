@@ -1,0 +1,23 @@
+{
+  "name": "jackieyyang-git-extension-pack",
+  "displayName": "Git Extension Pack (jackieyyang)",
+  "description": "常用 Git 扩展合集",
+  "version": "1.0.1",
+  "license": "MIT",
+  "publisher": "jackieyyang",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": ["Extension Packs"],
+  "keywords": ["git", "scm", "gitignore", "blame"],
+  "extensionPack": ["eamodio.gitlens", "codezombiech.gitignore"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackieyyang/jackieyyang-git-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jackieyyang/jackieyyang-git-extension-pack/issues"
+  },
+  "homepage": "https://github.com/jackieyyang/jackieyyang-git-extension-pack#readme"
+}
