@@ -14,10 +14,10 @@
   "extensionPack": ["eamodio.gitlens", "codezombiech.gitignore"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackieyyang/jackieyyang-git-extension-pack.git"
+    "url": "https://github.com/jackieyyang/git-extension-pack.git"
   },
   "bugs": {
-    "url": "https://github.com/jackieyyang/jackieyyang-git-extension-pack/issues"
+    "url": "https://github.com/jackieyyang/git-extension-pack/issues"
   },
-  "homepage": "https://github.com/jackieyyang/jackieyyang-git-extension-pack#readme"
+  "homepage": "https://github.com/jackieyyang/git-extension-pack#readme"
 }
