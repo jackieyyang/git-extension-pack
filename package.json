@@ -2,7 +2,7 @@
   "name": "jackieyyang-git-extension-pack",
   "displayName": "Git Extension Pack (Jackie Yang)",
   "description": "常用 Git 扩展合集",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "publisher": "jackieyyang",
   "icon": "icon.png",
@@ -18,6 +18,5 @@
   },
   "bugs": {
     "url": "https://github.com/jackieyyang/git-extension-pack/issues"
-  },
-  "homepage": "https://github.com/jackieyyang/git-extension-pack#readme"
+  }
 }
